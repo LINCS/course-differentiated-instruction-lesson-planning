@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="48" moduleid="4843" modulename="book" contextid="13927">
+  <book id="48">
+    <name>Module 2: Planning the Learning</name>
+    <intro>&lt;p&gt;placeholder - don't show&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>0</numbering>
+    <customtitles>1</customtitles>
+    <timecreated>1431983327</timecreated>
+    <timemodified>1433340165</timemodified>
+    <chapters>
+      <chapter id="404">
+        <pagenum>2</pagenum>
+        <subchapter>1</subchapter>
+        <title>Why Differentiate By Readiness?</title>
+        <content>&lt;h1&gt;Why Differentiate By Readiness?&lt;/h1&gt;
+&lt;p&gt;There are many reasons to emphasize differentiating by readiness in the adult education classroom, some of which have been mentioned previously. Individuals have different strengths which may be addressed using the principles of Universal Design for Learning (UDL). Research tells us that the brain’s biochemistry responds to success by stimulating pleasure centers, which in turn improves focus, memory and motivation. Interestingly, designers of video games have been aware of this response to success for years and have structured game designs accordingly. After all, those who don’t succeed at a game will not continue playing it. Successful games proceed with a series of small, incremental goals that players achieve at their own speed, according to their individual levels of skill (Gee, 2007). Does that sound familiar? This is, indeed, differentiation by readiness. This kind of design seems also to address the ZPD, with players responding to the appropriate level of challenge, bringing to their play differing levels of prior gaming experience, skills and knowledge. Obviously, those with more gaming background should be able to progress at a faster rate. Likewise, learners with more background in a given instructional area will be more ready to advance in that area, where others, perhaps, may not be. For example, a proficient math student is not necessarily a brilliant writer.&lt;/p&gt;
+&lt;div class="graybox" style="margin-bottom: 30px; margin-top: 30px;"&gt;
+&lt;h4 class="Feedback"&gt;&lt;strong&gt;Learn More About It&lt;/strong&gt;&lt;/h4&gt;
+&lt;p class="Feedback"&gt; &lt;/p&gt;
+&lt;p class="Feedback"&gt;For more information on&lt;strong&gt; the principles and techniques of UDL&lt;/strong&gt;, view this short video, “&lt;a href="https://www.youtube.com/watch?v=bDvKnY0g6e4" target="_blank"&gt;&lt;span class="nolink"&gt;UDL at a Glance&lt;/span&gt;&lt;/a&gt;” from the Center for Applied Technology (CAST), or read “&lt;a href="https://teal.ed.gov/tealguide/udl"&gt;Universal Design for Learning&lt;/a&gt;” (TEAL, 2010)&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Different outside experiences and activities can also play a part in readiness. A person who participates in historical re-enactments, for example, is likely to do better in social studies than one who is an avid gardener, while the latter is likely to be more advanced in science. Cultural attitudes, norms and beliefs may also advance or hinder learning. And, of course, language is a critical factor; English is the language of instruction, yet for English language learners, levels of skill can differ widely, affecting their readiness in many areas of study.&lt;/p&gt;
+&lt;div class="graybox" style="margin-bottom: 30px; margin-top: 30px;"&gt;
+&lt;h4 class="Feedback"&gt;&lt;strong&gt;Learn More About It&lt;/strong&gt;&lt;/h4&gt;
+&lt;p class="Feedback"&gt; &lt;/p&gt;
+&lt;p class="Feedback"&gt;For more information on &lt;strong&gt;cultural background, sensitivity and inclusiveness&lt;/strong&gt;, access the LINCS course “&lt;a href="https://lincs.ed.gov/programs/ell-u/online-courses" target="_blank"&gt;The Role of Culture in the Education of Adult English Language Learners&lt;/a&gt;,” which provides techniques and strategies to help educators create a culturally inclusive learning environment.&lt;/p&gt;
+&lt;/div&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1435692649</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="405">
+        <pagenum>3</pagenum>
+        <subchapter>0</subchapter>
+        <title>Backward Design</title>
+        <content>&lt;h1&gt;Planning With Backward Design&lt;/h1&gt;
+&lt;p&gt;Teachers face a daunting challenge, then, to plan lessons with all these readiness variables in mind. Using the backward design model can bring some order to this difficult task. As previously stated, backward design begins with the end – what is to be learned – at the beginning.&lt;/p&gt;
+&lt;p&gt;In this module, we will concentrate on Stage 1, learning objectives (LOs). (Assessment is addressed in Module 3, and learning activities in Module 4.) Starting with learning objectives can seem almost counterintuitive, because so often teachers begin with content – what students will be doing &lt;em&gt;during&lt;/em&gt; the lesson. Stage 1, however, concentrates on the &lt;em&gt;outcome&lt;/em&gt; of the lesson. How exactly to structure instruction to reach that outcome will be dealt with in Stage 3.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;Backward Design, Stage 1: Learning Objectives&lt;/h1&gt;
+&lt;p&gt;It may also seem counterintuitive that learning objectives are not, themselves, differentiated. But in an effectively differentiated class, all learners are aiming to achieve the same objectives. They will reach different levels of performance, demonstrated by assessment, and they may pursue learning by different means, in tiered and differentiated learning activities during the lesson. All, however, have the same learning aim. This careful focus is one of the hallmarks of effective differentiation. To produce it, learning objectives must be carefully crafted, always bearing in mind that the objective is the learning &lt;em&gt;outcome&lt;/em&gt;, not the process involved in reaching it.&lt;/p&gt;
+&lt;p&gt;An effective learning objective has three characteristics:  it is specific, observable, and measurable. We will consider each of these in turn.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1434308440</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="406">
+        <pagenum>4</pagenum>
+        <subchapter>1</subchapter>
+        <title>Characteristic 1: Specific</title>
+        <content>&lt;h1&gt;Characteristic 1: Specific&lt;/h1&gt;
+&lt;p&gt;First, an effective learning objective is &lt;i&gt;specific&lt;/i&gt;. It is precise and limited to what is to be learned in this lesson or unit. It contains a single learning outcome. A lesson may, of course, have several desired outcomes, but each will be contained it its own learning objective. (The importance of this will be clear when we come to assessment.) For example, a math class may be studying decimals. A learning objective that states “students will be able to multiply decimals” is too broad. Will a single lesson enable students to multiply all decimals? That is unlikely. A specific objective might be, “students will be able to multiply decimals out to two places.”&lt;/p&gt;
+&lt;p&gt;Likewise, a learning objective for a lesson on sentence structure would not focus broadly on writing correct sentences. Rather, for an English for Speakers of Other Languages (ESOL) class, it might be enough to specify that “learners will be able to write sentences that (1) begin with a capital letter, and (2) end with a period.” An objective for a high school equivalency level class might instead be, “students will be able to write correct compound sentences.” These LOs might not be accomplished in a single class period; they may be the culmination of a series of lessons or a unit. Nevertheless, they are &lt;i&gt;specific&lt;/i&gt; about the desired learning outcome.&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1434308473</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="407">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Module 2 Learning Objectives</title>
+        <content>&lt;h1&gt;Module 2 Learning Objectives&lt;/h1&gt;
+&lt;p&gt;This module begins the process of planning a differentiated lesson, starting with the first phase of backward design: learning objectives. Here are the learning objectives for this module.&lt;/p&gt;
+&lt;p&gt;By the end of this lesson, participants will be able to:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;explain at least three reasons for differentiating by readiness&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;name the three stages of backward design&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;explain the three characteristics of an effective learning objective&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;create at least one learning objective that is specific, observable, and measurable&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;write a reflection on how effective learning objectives shape a lesson&lt;/li&gt;
+&lt;/ol&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1434307813</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="408">
+        <pagenum>5</pagenum>
+        <subchapter>1</subchapter>
+        <title>Characteristic 2: Observable</title>
+        <content>&lt;h1&gt;Characteristic 2: Observable&lt;/h1&gt;
+&lt;p&gt;The second characteristic of effective learning objectives is that they are &lt;i&gt;observable&lt;/i&gt;. That is, the objective specifies an action students must perform to demonstrate what they have learned. One way to ensure this is to begin LOs with, as some teachers call it, the &lt;b&gt;SWBAT&lt;/b&gt;, or &lt;b&gt;S&lt;/b&gt;tudents &lt;b&gt;W&lt;/b&gt;ill &lt;b&gt;B&lt;/b&gt;e &lt;b&gt;A&lt;/b&gt;ble &lt;b&gt;T&lt;/b&gt;o, stem. Notice that the LOs for the modules in this course all begin this way, referring either to students or participants as appropriate.&lt;/p&gt;
+&lt;p&gt;Observable learning objectives also use active verbs. Students must DO something that both they and teachers can see; therefore, verbs describing internal activities – such as &lt;i&gt;understand&lt;/i&gt;, &lt;i&gt;review&lt;/i&gt;, or &lt;i&gt;consider&lt;/i&gt;– are to be avoided. Students should instead &lt;i&gt;write&lt;/i&gt;, &lt;i&gt;compute&lt;/i&gt;, &lt;i&gt;describe&lt;/i&gt;, or &lt;i&gt;explain&lt;/i&gt;. Notice the verbs used in the LOs for this module: &lt;i&gt;explain&lt;/i&gt;, &lt;i&gt;create, write&lt;/i&gt;. And the LOs in the previous module include &lt;i&gt;describe&lt;/i&gt; and &lt;i&gt;define&lt;/i&gt;. These demonstrations of learning can be observed and, as will be seen, measured.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div class="graybox"&gt;
+&lt;h4&gt;Learn More About It&lt;/h4&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Useful lists of verbs aligned with both Bloom’s Taxonomy and Webb’s Depth of Knowledge model are available online. For verbs aligned with Bloom, go to:&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.clemson.edu/ces/research/graduate-studies/gta-training/pdfs/blooms-taxonomy.pdf"&gt;http://www.clemson.edu/ces/research/graduate-studies/gta-training/pdfs/blooms-taxonomy.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.paffa.state.pa.us/PAAE/Curriculum%20Files/7.%20DOK%20Compared%20with%20Blooms%20Taxonomy.pdf"&gt;http://www.paffa.state.pa.us/PAAE/Curriculum%20Files/7.%20DOK%20Compared%20with%20Blooms%20Taxonomy.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;For the Webb DOK model, go to &lt;a href="http://static.pdesas.org/content/documents/M1-Slide_19_DOK_Wheel_Slide.pdf"&gt;http://static.pdesas.org/content/documents/M1-Slide_19_DOK_Wheel_Slide.pdf&lt;/a&gt;)&lt;/p&gt;
+&lt;h5&gt;&lt;/h5&gt;
+&lt;/div&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1434308651</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="409">
+        <pagenum>6</pagenum>
+        <subchapter>1</subchapter>
+        <title>Characteristic 3: Measurable</title>
+        <content>&lt;h1&gt;Characteristic 3: Measurable&lt;/h1&gt;
+&lt;p&gt;Third, effective learning objectives are &lt;i&gt;measurable.&lt;/i&gt; In other words, we must be able to assess whether and to what extent students have met the learning objective. We will cover assessment in greater detail in Module 3, but to craft effective learning objectives one must, as Wiggins and McTighe (1998) say, be “thinking like an assessor” (p. 9). An effective learning objective may specify a specific assessment; at a minimum, it will imply assessment will occur while leaving the method open. It will also often specify an acceptable standard of performance. To exemplify this, here are two possible LOs for students learning to multiply decimals:&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;i&gt;&lt;strong&gt;Complete a final test with 80% accuracy&lt;/strong&gt;.&lt;br /&gt;&lt;/i&gt;In this LO, a test is stated as the method of assessment.&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;strong&gt;&lt;i&gt;Students will be able to multiply decimals out to two places with 80% accuracy.&lt;br /&gt;&lt;/i&gt;&lt;/strong&gt;In this LO, no specific assessment method is stated. Students could take a quiz, complete a worksheet, or solve problems to show how they have met the expected performance target. Both LOs are specific, observable and measurable.&lt;/p&gt;
+&lt;h4&gt; &lt;/h4&gt;
+&lt;p&gt;Not all LOs, however, will contain outcomes that are easy to measure. For example, how does one write an essay with 80% accuracy? As stated above, an effective LO will at least imply measurability. In the case of a writing task, a LO could break the task down into units that could be scored. For example, here is a possible LO for writing compound sentences:&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;strong&gt;&lt;i&gt;Students will be able to write correct compound sentences with:&lt;/i&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li style="list-style-type: none;"&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;&lt;i&gt;correct punctuation,&lt;br /&gt;&lt;br /&gt;&lt;/i&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;i&gt;use of the correct preposition,&lt;br /&gt;&lt;br /&gt;&lt;/i&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;i&gt;subject-verb agreement, and&lt;br /&gt;&lt;br /&gt;&lt;/i&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;i&gt;appropriate verb tense usage.&lt;/i&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;This LO makes it clear to both teacher and student precisely what is to be accomplished in the writing of these sentences, which could be assessed through a test, an essay, or by some other method the teacher chooses.&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;If you teach writing, you may have noticed items the compound sentence LO does NOT include – such as, correct spelling. Therefore, when the method of assessment is chosen, correct spelling will not be considered as part of the assessment because it’s not part of the LO. It could, of course, be added; this is entirely up to the teacher. &lt;/p&gt;
+&lt;p&gt;The final point to remember is that the teacher decides on the desired learning outcomes, the activities that facilitate achieving those outcomes, what is to be assessed, and how to assess it.&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1433187994</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="410">
+        <pagenum>7</pagenum>
+        <subchapter>1</subchapter>
+        <title>Review, Tasks, and Resources</title>
+        <content>&lt;h1&gt;Review, Tasks, and Resources&lt;/h1&gt;
+&lt;h2&gt;Review&lt;/h2&gt;
+&lt;p&gt;In this module we have discussed:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;reasons for differentiating by readiness&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;the three stages of backward design: learning objectives, assessment, and learning activities&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;the three characteristics of effective learning objectives; that they are specific, observable and measurable&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;Tasks&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Module 2 Quiz&lt;/strong&gt;: Take this short quiz to test your learning. A passing grade is 80%. You may take it as many times as you wish and refer back to the module whenever necessary.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Module 2 Exercise&lt;/strong&gt;: Download and complete this exercise, which includes writing your own learning objective.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Write a reflection&lt;/strong&gt;:  Consider a lesson you currently teach. Does it have effective learning objectives that are specific, observable and measurable? If so, how do these shape the lesson? If not, how would effective LOs change the lesson? Post it in the LINCS COP:  &lt;a href="https://community.lincs.ed.gov/discussion/online-course-differentiated-instruction-and-lesson-planning"&gt;https://community.lincs.ed.gov/discussion/online-course-differentiated-instruction-and-lesson-planning&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;Readings&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Bloom’s Taxonomy Action Verbs. (n.d.). Retrieved from &lt;span style="color: #993300;" color="#993300"&gt;&lt;a href="http://www.paffa.state.pa.us/PAAE/Curriculum%20Files/7.%20DOK%20Compared%20with%20Blooms%20Taxonomy.pdf"&gt;http://www.paffa.state.pa.us/PAAE/Curriculum%20Files/7.%20DOK%20Compared%20with%20Blooms%20Taxonomy.pdf&lt;/a&gt;&lt;/span&gt; &lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Education Oasis. (2011). Learning objectives: Stems and samples. Retrieved from &lt;a href="http://www.educationoasis.com/instruction/bt/learning_objectives.htm"&gt;http://www.educationoasis.com/instruction/bt/learning_objectives.htm&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;U.S. Department of Education, Office of Vocational and Adult Education. (2010). Teaching Excellence in Adult Literacy (TEAL). &lt;i&gt;TEAL Center Fact Sheet No. 8: Effective lesson planning. &lt;/i&gt;Washington, DC: American Institutes for Research. Retrieved from &lt;a href="https://teal.ed.gov/sites/default/files/Fact-Sheets/8_TEAL_Lesson_Planning.pdf"&gt;https://teal.ed.gov/sites/default/files/Fact-Sheets/8_TEAL_Lesson_Planning.pdf&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Fischer, M.W. (2005). Readiness Differentiation: Daring to Get Back on My Bike. &lt;i&gt;Education World. &lt;/i&gt;Retrieved from &lt;a href="http://www.educationworld.com/a_curr/voice/voice143.shtml"&gt;http://www.educationworld.com/a_curr/voice/voice143.shtml&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Kruse, K. (n.d.). How to write great learning objectives. Retrieved from &lt;a href="http://www.kin.sjsu.edu/faculty/susanwilkinson/Content/179/11%20How%20to%20write%20Great%20Learning.pdf"&gt;http://www.kin.sjsu.edu/faculty/susanwilkinson/Content/179/11%20How%20to%20write%20Great%20Learning.pdf&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;U.S. Department of Education, Office of Vocational and Adult Education. (2010). &lt;i&gt;Universal Design for Learning Guide&lt;/i&gt;. Washington, DC: American Institutes for Research. Retrieved from &lt;a href="https://teal.ed.gov/tealguide/udl"&gt;https://teal.ed.gov/tealguide/udl&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Webb, N.L., et al. (2005). Depth of knowledge (DOK) levels. Madison, WI: Wisconsin Center of Education Research, University of Wisconsin-Madison. Retrieved from &lt;a href="http://static.pdesas.org/content/documents/M1-Slide_19_DOK_Wheel_Slide.pdf"&gt;http://static.pdesas.org/content/documents/M1-Slide_19_DOK_Wheel_Slide.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;Videos&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Tomlinson, C.A. (2012). Readiness on differentiated instructions [Video file]. Retrieved from &lt;a href="https://www.youtube.com/watch?v=MMvCd5Xafag"&gt;https://www.youtube.com/watch?v=MMvCd5Xafag&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;div class="graybox"&gt;
+&lt;h4&gt;Learn More About It&lt;br /&gt;&lt;br /&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Gee, J.P. (2007). &lt;i&gt;What video games have to teach us about learning and literacy.&lt;/i&gt; New York, NY: Palagrave Macmillan.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;McTighe, J., &amp;amp; Thomas, R.S. (2003). Backward design for forward action. &lt;i&gt;Educational Leadership. &lt;/i&gt;60(5), 52-55. Retrieved from  &lt;a href="http://jaymctighe.com/wordpress/wp-content/uploads/2011/04/Backward-Design-for-Forward-Action.pdf"&gt;http://jaymctighe.com/wordpress/wp-content/uploads/2011/04/Backward-Design-for-Forward-Action.pdf&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Tomlinson, C.A. (2001). &lt;i&gt;How to differentiate instruction in mixed-ability classrooms&lt;/i&gt; (2&lt;sup&gt;nd&lt;/sup&gt; ed)&lt;i&gt;. &lt;/i&gt;Alexandria, VA: Association for Supervision and Curriculum Development.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Wiggins, G., &amp;amp; McTighe, J. (1998). &lt;i&gt;What is backward design?&lt;/i&gt; Alexandria, VA: Association for Supervision and Curriculum Development. Retrieved from &lt;a href="https://www.fitnyc.edu/files/pdfs/Backward_design.pdf"&gt;https://www.fitnyc.edu/files/pdfs/Backward_design.pdf&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Willis, J. (2011). How to plan lessons using the video game model. Retrieved from &lt;a href="http://www.edutopia.org/blog/how-to-plan-instruction-video-game-model-judy-willis-md"&gt;http://www.edutopia.org/blog/how-to-plan-instruction-video-game-model-judy-willis-md&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Wright, J. (n.d.). Differentiation strategies: Readiness-based differentiation. [Web log post]. Retrieved from &lt;a href="http://www.conversationpieceslearning.org/differentiation-strategies---readiness-based-differentiation.html"&gt;http://www.conversationpieceslearning.org/differentiation-strategies---readiness-based-differentiation.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;h4&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;span style="color: #993300;"&gt;After completing the Module 2 Quiz and &lt;a href="@@PLUGINFILE@@/2_Module2_Exercise.pdf"&gt;exercise&lt;/a&gt;, continue on to &lt;span style="color: #993300;" color="#993300"&gt;Module 3: Assessing the Learning&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1434308715</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>

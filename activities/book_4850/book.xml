@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="50" moduleid="4850" modulename="book" contextid="13934">
+  <book id="50">
+    <name>Module 4: Facilitating the Learning</name>
+    <intro>&lt;p&gt;module 4&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>0</numbering>
+    <customtitles>1</customtitles>
+    <timecreated>1432757754</timecreated>
+    <timemodified>1433341697</timemodified>
+    <chapters>
+      <chapter id="420">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Module 4 Learning Objectives</title>
+        <content>&lt;h1&gt;Module 4 Learning Objectives&lt;/h1&gt;
+&lt;p&gt;This module addresses the third stage of backward design – learning activities. Activities are where many teachers start planning their lessons. In backward design, however, this is Stage 3 – the final step in lesson planning. Here are the learning objectives for this module.&lt;/p&gt;
+&lt;p&gt;By the end of this lesson, participants will be able to:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;name at least three reasons for differentiating by content&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;name at least three reasons for differentiating by process&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;name at least three types of activities appropriate for their setting&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;design at least one activity differentiated by readiness as well as by content and/or process, based on the learning objective and assessment from the prior modules&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;create at least one formative assessment opportunity and technique for this activity&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;write a reflection on how matching activities to learning objectives and providing opportunities for formative assessment help shape lessons&lt;/li&gt;
+&lt;/ol&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1434311703</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="421">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>Backward Design, Stage 3: Differentiation of Learning Activities</title>
+        <content>&lt;h1&gt;Backward Design, Stage 3: Differentiation of Learning Activities&lt;!--?xml:namespace prefix = "o" ns = "urn:schemas-microsoft-com:office:office" /--&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/h1&gt;
+&lt;p&gt;As students undertake the activities designed to help them achieve the lesson’s learning objectives, their tasks may be differentiated by content and/or by process. In planning the activities, teachers must first consider readiness, which may involve differing levels of challenge; for example, structuring activities so they range from easy to hard, less to more, simple to complex, concrete to abstract, or structured to open-&lt;span style="background-color: #ffffff;"&gt;ended. (For more details about levels of challenge, access &lt;a href="@@PLUGINFILE@@/4_DI_LevelsOfChallenge.pdf"&gt;this handout&lt;/a&gt;.)  &lt;/span&gt;Different materials may be used, differentiating by content; or students may interact with the material in different ways, differentiating by process. In this course, for example, all participants follow the same process (although at each person’s own pace) of moving through the learning activities in each module; likewise, content is the same for all (although participants are free to differentiate content themselves by individually pursuing additional materials provided in the “Learn More About It” sidebars). Nevertheless, the course attends to the principles of DI because each participant is working on his or her own lesson plan; therefore, product is differentiated.&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1434311749</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="422">
+        <pagenum>3</pagenum>
+        <subchapter>0</subchapter>
+        <title>Differentiation By Content</title>
+        <content>&lt;h1&gt;Differentiation By Content&lt;/h1&gt;
+&lt;p&gt;Differentiation by content, using materials matched to student readiness, allows students to learn and progress at the appropriate pace for them. Content may be differentiated according to interest and/or learning profile in addition to readiness, which can improve student motivation as well as facilitating learning. Differentiated content can allow access to a topic at varying levels if materials are provided in different formats (for example, audio, video, or technology-based), and such content differentiation can also provide the multiple means of representation and engagement called for by the principles of Universal Design for Learning. In all cases, however, the materials and activities are based on the same learning objectives and aim toward the same assessment.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;In this &lt;a href="@@PLUGINFILE@@/4_MathContent_LP.pdf"&gt;lesson plan&lt;/a&gt;, a math class working toward a high school equivalency credential is focusing on identifying correct problem-solving strategies in geometry. After an engaging whole-class activity, students are given assignments in three tiers, which the teacher calls easiest, middle and advanced. In the easiest tier, a worksheet contains one-step problems that have clear clues and labeled diagrams. The middle tier contains problems more similar to those that appear on high school equivalency tests, containing two steps or more oblique clues. The advanced assignment, for students ready to test, is to develop original examples of various problems, including perimeter and area, the Pythagorean Theorem, similar figures, and so forth. In all three tiers, the products of this activity are formative assessments; a later summative assessment is also differentiated into the same tiers.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;Note that in this lesson, advanced students who complete activities early are encouraged to assist slower learners. Using peer-to-peer learning in this manner is one way of managing students’ different paces of completion. The use of peers as learning resources has the added advantage of facilitating learning. The National Research Council report, &lt;em&gt;Improving Adult Literacy Instruction&lt;/em&gt; (2012), repeatedly acknowledges the “benefit of peer assistance” in acquiring reading and writing skills (p. 99). Constructing explanations of the work will also facilitate learning for more advanced learners (National Research Council 2012, p. 116). Such peer learning was demonstrated in some of the student pair activities in the “Foods Choice Product Lesson Plan” from the previous module.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;Another way of managing the different rates at which students complete work is so-called “anchor activities;” which are tasks that students may do when they have completed their work early. These tasks include activities such as skill practice, reading, journaling, and so on, which students can learn to work on independently and quietly. They must be spelled out in advance, however, so that students can turn to them automatically when their assigned work is finished. (For more on anchor activities, see Tomlinson, 2001, p. 35).&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1434312936</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="423">
+        <pagenum>4</pagenum>
+        <subchapter>0</subchapter>
+        <title>Differentiation By Process</title>
+        <content>&lt;h1&gt;Differentiation By Process&lt;/h1&gt;
+&lt;p&gt;In activities differentiated by process, students interact with learning materials in different ways; they have different avenues for making sense of a lesson’s content. Like differentiation by content, differentiating by process can address student interest – for example, one student may prefer drawing by hand while another wants to write at a computer. Activities can address student readiness through differing amounts of scaffolding and teacher involvement. In the language of Universal Design for Learning, activities “provide a range of means to support” student learning (TEAL, 2010, p. 1). They might also be accomplished with the kind of flexible grouping called for by DI - with homogeneous or heterogeneous groups organized by readiness, interest, or type of activity - or with individual students playing different roles according to their interests and strengths. Depending on instructional purpose, groups also could be formed by numbering off (1, 2, 3, etc.), by alphabetical order, or even by the color of student clothing. Nevertheless, just as when differentiating by content, the activities are based on the same learning objectives and aim toward the same assessment.&lt;/p&gt;
+&lt;p&gt;For example, in this &lt;a href="@@PLUGINFILE@@/4_SentenceStructureProcessLP.pdf"&gt;lesson plan about sentence structure&lt;/a&gt;, a class of intermediate ELLs is working on writing correct complete sentences. Based on her pre-assessment, the teacher has identified two readiness levels which she calls “challenged” and “advanced,” and has tiered the process accordingly. After class discussion and review, the teacher writes on the board 10 word groups, comprised of 5 complete sentences and 5 fragments. Challenged students copy all 10 sentences and identify each as a complete sentence or fragment. Advanced students copy only the fragments and provide at least one rule for why they are fragments. Note that all students are working toward the same learning objective:  to distinguish groups of words as complete sentences or fragments. The content is the same, because everyone is working with the same 10 sentences. But HOW they are working with them is differentiated. The results of this activity are formative assessments; later in a final and undifferentiated assessment, groups of students will turn fragments into sentences.&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1434312981</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="424">
+        <pagenum>5</pagenum>
+        <subchapter>0</subchapter>
+        <title>Types of Activities</title>
+        <content>&lt;h1&gt;Types of Activities&lt;/h1&gt;
+&lt;p&gt;As both the math and sentence structure lesson plans demonstrate, activities may be differentiated into tiers by readiness, based on the appropriate level of challenge and complexity. But that is only part of the story. Each of these lessons also contains activities that involve the kind of &lt;em&gt;flexible grouping&lt;/em&gt; crucial in DI; sometimes heterogeneous or homogeneous, and sometimes whole-class, depending on instructional purpose. Like assessments, activities may also be &lt;em&gt;project-based&lt;/em&gt;, and these might be differentiated by content and/or process. Adhering to the Universal Design for Learning principles of providing multiple means of access and representation, activities can be &lt;em&gt;multimodal&lt;/em&gt;, with a variety of learning types available, or &lt;em&gt;technology-based&lt;/em&gt;, which has the added advantages of helping students learn 21st century skills and giving them access to adaptive products. [If you need more information about these terms, review the resources listed at the end of this module.]&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1434313003</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="425">
+        <pagenum>6</pagenum>
+        <subchapter>0</subchapter>
+        <title>Review, Tasks, and Resources</title>
+        <content>&lt;h1&gt;Review, Tasks, and Resources&lt;/h1&gt;
+&lt;h2&gt;Review&lt;/h2&gt;
+&lt;p&gt;In this module we have discussed:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;differentiation by content to facilitate learning by addressing readiness, interest or learning profile; by improving student motivation; by permitting access to content at different levels; and by providing for  the multiple means of representation and engagement called for by the principles of Universal Design for Learning&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;differentiation by process, addressing student readiness through differing amounts of scaffolding and teacher involvement; through the kind of flexible grouping called for by DI, with homogeneous or heterogeneous groups organized by ability, interest, or type of activity; and, in providing a range of types of support as called for in Universal Design for Learning&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;different types and design of learning activities, including tiers, flexible grouping, authentic, project-based, multimodal and technology-based&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Tasks&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Module 4 Quiz&lt;/strong&gt;: Take this short quiz to test your learning. A passing grade is 80%; you may take it as many times as you wish and refer back to the module whenever necessary.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Module 4 Exercise&lt;/strong&gt;: Download and complete this exercise, which includes writing your own differentiated activity and one formative assessment opportunity and technique for the learning objective from the prior module.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Write a reflection:&lt;/strong&gt; Consider a lesson you currently teach. Do its learning activities match the learning objectives? Are there provisions for formative assessment? If so, how do those planning steps help shape the lesson? If not, how might they change the lesson currently taught? Post it in the COP: &lt;a href="https://community.lincs.ed.gov/discussion/online-course-differentiated-instruction-and-lesson-planning-assessment"&gt;https://community.lincs.ed.gov/discussion/online-course-differentiated-instruction-and-lesson-planning-assessment&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;Readings&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Differentiated Instruction: Levels of Challenge&lt;/em&gt;. (2013). Boston, MA: World Education, Inc. (note: handout from original course)&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Saldana, C. (2005). Differentiating instruction for a multilevel class. Focus on Basics, 7, 17-18. Retrieved from &lt;a href="http://www.ncsall.net/fileadmin/resources/fob/2005/fob_7c.pdf"&gt;http://www.ncsall.net/fileadmin/resources/fob/2005/fob_7c.pdf&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;U.S. Department of Education, Office of Vocational and Adult Education. (2010). Teaching Excellence in Adult Literacy (TEAL). &lt;em&gt;Teal Center Fact Sheet No. 2: Universal design for learning&lt;/em&gt;. Washington, DC: American Institutes for Research. Retrieved from &lt;a href="http://lincs.ed.gov/sites/default/files/2_TEAL_UDL.pdf"&gt;http://lincs.ed.gov/sites/default/files/2_TEAL_UDL.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;Videos&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Center for Applied Special Technology (CAST). (2010, January 6). UDL at a glance [Video file]. Retrieved from:&lt;br /&gt; &lt;a href="https://www.youtube.com/watch?v=bDvKnY0g6e4"&gt;https://www.youtube.com/watch?v=bDvKnY0g6e4&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div class="graybox"&gt;
+&lt;h4&gt;Learn More About It&lt;br /&gt;&lt;br /&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Hollas, B. (2007). &lt;em&gt;Differentiating instruction in a whole-group setting, 7-12&lt;/em&gt;. Peterborough, NH: Crystal Springs Books.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Miller, A. (2012). Six strategies for differentiation in project-based learning. Retrieved from &lt;a href="http://www.edutopia.org/blog/differentiated-instruction-strategies-pbl-andrew-miller"&gt;http://www.edutopia.org/blog/differentiated-instruction-strategies-pbl-andrew-miller&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;National Research Council. (2012). Principles of learning for instructional design. In National Research Council, &lt;em&gt;Improving adult literacy instruction&lt;/em&gt; (pp. 106-129). Retrieved from &lt;a href="http://www.nap.edu/catalog/13242/improving-adult-literacy-instruction-options-for-practice-and-research"&gt;http://www.nap.edu/catalog/13242/improving-adult-literacy-instruction-options-for-practice-and-research&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Rubenstein, G. (2010). Ten tips for personalized learning via technology. Retrieved from &lt;a href="http://www.edutopia.org/stw-differentiated-instruction-ten-key-lessons"&gt;http://www.edutopia.org/stw-differentiated-instruction-ten-key-lessons&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Tomlinson, C.A. (2001). &lt;em&gt;How to differentiate instruction in mixed-ability classrooms&lt;/em&gt; (2nd ed). Alexandria, VA: Association for Supervision and Curriculum Development.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Wormell, R. (2007). &lt;em&gt;Differentiation: From planning to practice&lt;/em&gt;, grades 6–12. Portland, ME: Stenhouse Publishers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #993300;"&gt;After completing the Module 4 quiz and &lt;a href="@@PLUGINFILE@@/4_Module4_Exercise.pdf"&gt;exercise&lt;/a&gt;, continue on to Module 5: Putting It All Together &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1434313755</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>

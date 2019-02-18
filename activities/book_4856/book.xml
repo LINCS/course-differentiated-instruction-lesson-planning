@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="51" moduleid="4856" modulename="book" contextid="13940">
+  <book id="51">
+    <name>Module 5: Putting It All Together</name>
+    <intro>&lt;p&gt;Module 5:  Putting It All Together&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>0</numbering>
+    <customtitles>1</customtitles>
+    <timecreated>1432837612</timecreated>
+    <timemodified>1433344526</timemodified>
+    <chapters>
+      <chapter id="426">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Module 5 Learning Objectives </title>
+        <content>&lt;h1&gt;Module 5 Learning Objectives&lt;/h1&gt;
+&lt;p&gt;&lt;br /&gt;Now it’s time for you to put together what you have learned and what you have done so far to make a final lesson plan. Here are the learning objectives for this module.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;By the end of this lesson, participants will be able to:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;produce a final lesson plan containing the learning objectives, assessments and activities produced in previous modules&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;achieve a score of at least 21 out of 27 points, using provided rubric for evaluation&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;write a reflection on how the learning in this course shaped the lesson plan you produced&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;if possible, teach and write a reflection on the success of the lesson&lt;/li&gt;
+&lt;/ol&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1434313789</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="427">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>Creating a Final Lesson Plan</title>
+        <content>&lt;h1&gt;Creating a Final Lesson Plan&lt;/h1&gt;
+&lt;p&gt;You have already produced the major elements of your lesson plan – learning objectives, assessments, and activities. It only remains to write it up. Two additional lesson plans from previous DI courses are provided as models:  one for &lt;a href="@@PLUGINFILE@@/5_DiffScienceLP.pdf"&gt;high school-level science&lt;/a&gt;, and one for &lt;a href="@@PLUGINFILE@@/5_DiffParaWritingLP.pdf"&gt;writing a persuasive paragraph&lt;/a&gt;.  Each of these lesson plans contains a rubric which, while instructive as an exercise, is not required. In writing the lesson plan, you may use the &lt;a href="@@PLUGINFILE@@/5_DI_LP_Template.pdf"&gt;template&lt;/a&gt; geared specifically to this course if you find it helpful. You may also want to explore this electronic lesson planner on LINCS (you need to create a log in and password):  &lt;a href="https://lessonplanner.lincs.ed.gov/"&gt;https://lessonplanner.lincs.ed.gov/&lt;/a&gt;.  Any lesson plan format may be used that allows fulfillment of the assessment requirements.&lt;/p&gt;
+&lt;p&gt;As an additional aid in planning, a version of the &lt;a href="@@PLUGINFILE@@/5_DI_FinalLP_SelfEvalRubric.pdf"&gt;rubric used to evaluate all the model lesson plans &lt;/a&gt;is included in this course. You can use this to evaluate your own lesson plan. Remember to follow the rubric principles discussed earlier and make it available &lt;strong&gt;before&lt;/strong&gt; work is completed as a guide to exactly what is required.&lt;/p&gt;
+&lt;h2&gt; &lt;/h2&gt;
+&lt;div class="graybox"&gt;
+&lt;h4&gt;Learn More About It&lt;br /&gt;&lt;br /&gt;&lt;/h4&gt;
+&lt;p&gt;If you are interested in reading a discussion thread among practitioners and researchers concerning the creation and use of rubrics, which also contains links to examples, visit this LINCS Community:  &lt;a href="https://community.lincs.ed.gov/discussion/checklists-and-rubrics-more-discussion-resources-strategies"&gt;https://community.lincs.ed.gov/discussion/checklists-and-rubrics-more-discussion-resources-strategies&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1434314067</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="428">
+        <pagenum>3</pagenum>
+        <subchapter>0</subchapter>
+        <title>Evaluating Your Plan</title>
+        <content>&lt;h1&gt;Evaluating Your Plan&lt;/h1&gt;
+&lt;p&gt;Now it’s time to sit back and contemplate what you’ve done. Are your learning objectives specific, observable and measurable? Have you addressed readiness in a way that meets the needs of all your students? Does your summative assessment match your learning objectives? Do your activities lead students toward the learning objectives? Have you differentiated the content and/or process of your activities? Do all students have access to the topic?&lt;/p&gt;
+&lt;p&gt;To help with this evaluation, consult the &lt;a href="@@PLUGINFILE@@/5_DI_FinalLP_SelfEvalRubric.pdf"&gt;self-evaluation rubric &lt;/a&gt;introduced above that you used to guide your final &lt;span style="background-color: #ffffff;"&gt;planning. The aim&lt;/span&gt; is to produce a lesson that scores at least 21 out of 27 points. As models, the final &lt;a href="@@PLUGINFILE@@/5_DiffScience_EvalRubric.pdf"&gt;evaluation for the Science lesson plan &lt;/a&gt;and the final &lt;a href="@@PLUGINFILE@@/5_DiffParaWriting_EvalRubric%20%281%29.pdf"&gt;evaluation for the Paragraph Writing lesson plan &lt;/a&gt;are included, complete with teacher comments. The rubrics differ somewhat from your self-evaluation because these lessons were required to contain rubrics, which were scored and commented on in the evaluations.&lt;/p&gt;
+&lt;p&gt;The purpose of this course was to provide guidance in producing a differentiated lesson plan. Of course, the most important result will take place outside its purview - actually teaching the lesson. You will certainly learn a great deal from the experience, and you may want to share with others who have been through this course, either online or among colleagues at your workplace. The saying has it that many hands make light work; in this context, we could say that many minds make great teaching.&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1434314126</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="429">
+        <pagenum>4</pagenum>
+        <subchapter>0</subchapter>
+        <title>Review, Tasks, and Resources</title>
+        <content>&lt;h1&gt;Review, Tasks, and Resources&lt;/h1&gt;
+&lt;h2&gt;Tasks&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Complete a lesson plan containing the learning objectives, assessments and activities produced in previous modules. &lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Score at least 21 out of 27 points on the provided evaluation rubric. &lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Write a reflection on how the learning in this course shaped the lesson plan you produced. Post it in the COP: &lt;span style="color: #993300;" color="#993300"&gt;&lt;a href="https://community.lincs.ed.gov/discussion/online-course-differentiated-instruction-and-lesson-planning"&gt;https://community.lincs.ed.gov/discussion/online-course-differentiated-instruction-and-lesson-planning&lt;/a&gt; &lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Respond to a post from another participant concerning his/her experience in applying DI in practice. &lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;If possible, write a reflection on the success of your lesson. Post it in the COP: &lt;span style="color: #993300;" color="#993300"&gt;&lt;a href="https://community.lincs.ed.gov/discussion/online-course-differentiated-instruction-and-lesson-planning"&gt;https://community.lincs.ed.gov/discussion/online-course-differentiated-instruction-and-lesson-planning&lt;/a&gt; &lt;/span&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt; &lt;/h2&gt;
+&lt;div class="graybox"&gt;
+&lt;h4&gt;Learn More About It&lt;br /&gt;&lt;br /&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Tomlinson, C.A. (2005). &lt;em&gt;Differentiation in practice: A resource guide for differentiating curriculum, grades 9-12&lt;/em&gt;. Alexandria, VA: Association for Supervision and Curriculum Development. &lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Tomlinson, C.A. (n.d.). &lt;em&gt;Suggestions on how to begin differentiating instruction&lt;/em&gt; [Video file]. Retrieved from  &lt;a href="http://www.differentiationcentral.com/videos.html"&gt;http://www.differentiationcentral.com/videos.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style="color: #993300;"&gt;Continue on to Course Conclusion&lt;/span&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1434314602</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>

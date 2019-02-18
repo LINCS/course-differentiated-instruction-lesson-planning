@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1191" moduleid="4864" modulename="page" contextid="13948">
+  <page id="1191">
+    <name>Course Conclusion</name>
+    <intro>&lt;h1&gt;Course Conclusion&lt;!--?xml:namespace prefix = "o" ns = "urn:schemas-microsoft-com:office:office" /--&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/h1&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;h1&gt;Course Conclusion&lt;/h1&gt;
+&lt;p&gt;This concludes the &lt;i&gt;Differentiated Instruction and Lesson Planning&lt;/i&gt; course. We would like to thank the content author, Wendy Quiñones (consultant), for her substantial contributions to the development of this course.&lt;/p&gt;
+&lt;p&gt;Here is a list of References and Resources mentioned in the course.&lt;/p&gt;
+&lt;p&gt;Congratulations on completing the &lt;i&gt;LINCS Differentiated Instruction and Lesson Planning&lt;/i&gt; course! So that we can maintain the quality of our courses, please take a moment to complete the&lt;b&gt; &lt;/b&gt;participant&lt;b&gt; &lt;/b&gt;evaluation: &lt;a href="https://www.surveygizmo.com/s3/4467334/Teaching-and-Learning-DI-and-Lesson-Planning"&gt;https://www.surveygizmo.com/s3/4467334/Teaching-and-Learning-DI-and-Lesson-Planning&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;. Your feedback will ensure our courses meet your needs for professional development. Thank you.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;div class="graybox"&gt;
+&lt;h4 class="Feedback"&gt;Access and Print Your Certificate Anytime&lt;/h4&gt;
+&lt;p class="Feedback"&gt;&lt;/p&gt;
+&lt;p class="Feedback"&gt;To obtain your completion certificate, exit this book and return to the course main page. You will find the Differentiated Instruction Certificate under the last section heading, "Certificate of Completion". From there, you will be able to print your course certificate of completion.&lt;/p&gt;
+&lt;p class="Feedback"&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: x-small;"&gt;&lt;i&gt;This Literacy Information and Communication System (LINCS) course was developed by MSG for the U.S. Department of Education, Office of Career, Technical, and Adult Education under Contract No. ED-VAE-14-C-0123. The opinions expressed herein do not necessarily represent the positions or policies of the U.S. Department of Education, and no official endorsement by the U.S. Department of Education should be inferred. This course is in the public domain and may be used without permission.&lt;/i&gt;&lt;/span&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>13</revision>
+    <timemodified>1531406170</timemodified>
+  </page>
+</activity>

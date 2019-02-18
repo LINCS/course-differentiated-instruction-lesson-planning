@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="43" moduleid="4844" modulename="quiz" contextid="13928">
+  <quiz id="43">
+    <name>Module 2 Quiz</name>
+    <intro>&lt;p&gt;The following statements were proposed as learning objectives by teachers in various trainings.&lt;/p&gt;
+&lt;p&gt;Which are truly specific, observable, measurable learning objectives, according to the criteria reviewed in this module?&lt;/p&gt;
+&lt;p&gt;For each proposed learning objective, answer either yes or no.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timeopen>0</timeopen>
+    <timeclose>0</timeclose>
+    <timelimit>0</timelimit>
+    <overduehandling>autosubmit</overduehandling>
+    <graceperiod>0</graceperiod>
+    <preferredbehaviour>adaptivenopenalty</preferredbehaviour>
+    <attempts_number>0</attempts_number>
+    <attemptonlast>0</attemptonlast>
+    <grademethod>1</grademethod>
+    <decimalpoints>0</decimalpoints>
+    <questiondecimalpoints>-1</questiondecimalpoints>
+    <reviewattempt>69904</reviewattempt>
+    <reviewcorrectness>69904</reviewcorrectness>
+    <reviewmarks>0</reviewmarks>
+    <reviewspecificfeedback>69904</reviewspecificfeedback>
+    <reviewgeneralfeedback>69904</reviewgeneralfeedback>
+    <reviewrightanswer>69904</reviewrightanswer>
+    <reviewoverallfeedback>0</reviewoverallfeedback>
+    <questionsperpage>6</questionsperpage>
+    <navmethod>free</navmethod>
+    <shufflequestions>0</shufflequestions>
+    <shuffleanswers>0</shuffleanswers>
+    <questions>943,944,945,946,947,0</questions>
+    <sumgrades>5.00000</sumgrades>
+    <grade>10.00000</grade>
+    <timecreated>0</timecreated>
+    <timemodified>1441487671</timemodified>
+    <password></password>
+    <subnet></subnet>
+    <browsersecurity>-</browsersecurity>
+    <delay1>0</delay1>
+    <delay2>0</delay2>
+    <showuserpicture>0</showuserpicture>
+    <showblocks>1</showblocks>
+    <question_instances>
+      <question_instance id="340">
+        <question>943</question>
+        <grade>1.0000000</grade>
+      </question_instance>
+      <question_instance id="341">
+        <question>944</question>
+        <grade>1.0000000</grade>
+      </question_instance>
+      <question_instance id="342">
+        <question>945</question>
+        <grade>1.0000000</grade>
+      </question_instance>
+      <question_instance id="343">
+        <question>946</question>
+        <grade>1.0000000</grade>
+      </question_instance>
+      <question_instance id="344">
+        <question>947</question>
+        <grade>1.0000000</grade>
+      </question_instance>
+    </question_instances>
+    <feedbacks>
+      <feedback id="65">
+        <feedbacktext></feedbacktext>
+        <feedbacktextformat>1</feedbacktextformat>
+        <mingrade>0.00000</mingrade>
+        <maxgrade>11.00000</maxgrade>
+      </feedback>
+    </feedbacks>
+    <overrides>
+    </overrides>
+    <grades>
+    </grades>
+    <attempts>
+    </attempts>
+  </quiz>
+</activity>

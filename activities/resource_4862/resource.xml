@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="132" moduleid="4862" modulename="resource" contextid="13946">
+  <resource id="132">
+    <name>Differentiated Science Lesson Plan Evaluation Rubric</name>
+    <intro>&lt;p&gt;handout&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>0</display>
+    <displayoptions>a:1:{s:10:"printintro";i:1;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>2</revision>
+    <timemodified>1439133498</timemodified>
+  </resource>
+</activity>

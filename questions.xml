@@ -1,0 +1,1029 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_categories>
+  <question_category id="146">
+    <name>Default for Module 2 Quiz</name>
+    <contextid>13928</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>4844</contextinstanceid>
+    <info>The default category for questions shared in context 'Module 2 Quiz'.</info>
+    <infoformat>0</infoformat>
+    <stamp>ovae-moodle-dev.myquotient.net+150519175216+xR0BHf</stamp>
+    <parent>0</parent>
+    <sortorder>999</sortorder>
+    <questions>
+    </questions>
+  </question_category>
+  <question_category id="147">
+    <name>Default for DI and Lesson Planning</name>
+    <contextid>13923</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>126</contextinstanceid>
+    <info>The default category for questions shared in context 'DI and Lesson Planning'.</info>
+    <infoformat>0</infoformat>
+    <stamp>ovae-moodle-dev.myquotient.net+150519175216+Rru1j0</stamp>
+    <parent>0</parent>
+    <sortorder>999</sortorder>
+    <questions>
+      <question id="937">
+        <parent>0</parent>
+        <name>Module 2, Question 1</name>
+        <questiontext>&lt;p&gt;&lt;span style="font-family: 'Calibri','sans-serif'; font-size: 11pt; mso-bidi-font-family: 'Times New Roman'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;"&gt;Students will recognize and form irregular comparative adjectives&lt;/span&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150519180335+7pwyLa</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150527174534+rSPdeJ</version>
+        <hidden>1</hidden>
+        <timecreated>1432058615</timecreated>
+        <timemodified>1432748734</timemodified>
+        <createdby>7244</createdby>
+        <modifiedby>7244</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="2819">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;Please try again.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2820">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;Correct!&lt;/p&gt;
+&lt;p&gt;This LO is too general.  How do we measure “recognition”? It also contains two separate outcomes: “recognize” and “form.”&lt;/p&gt;
+&lt;p&gt;A specific LO could be: “Students will be able to complete a quiz on irregular comparative adjectives with 80% accuracy.”&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="91">
+            <trueanswer>2819</trueanswer>
+            <falseanswer>2820</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="938">
+        <parent>0</parent>
+        <name>Module 2, Question 2</name>
+        <questiontext>&lt;p&gt;&lt;span style="font-family: 'Calibri','sans-serif'; font-size: 11pt; mso-bidi-font-family: 'Times New Roman'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;"&gt;Students will be able to calculate the square footage of an area.&lt;/span&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150519180532+ZGKqDg</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150519191122+VLrpep</version>
+        <hidden>1</hidden>
+        <timecreated>1432058732</timecreated>
+        <timemodified>1432062682</timemodified>
+        <createdby>7244</createdby>
+        <modifiedby>7244</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="2821">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;Please try again.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2822">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;Correct!&lt;/p&gt;
+&lt;p&gt;This LO is too general.  All areas? Rectangles and circles? Trapezoids? Irregular shapes?&lt;/p&gt;
+&lt;p&gt;A better LO might be: “Given the measurements of a figure, students will be able to calculate its square footage.”&lt;/p&gt;
+&lt;p&gt;Note that this LO would permit differentiation; figures of differing difficulty could be provided to students of differing readiness.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="92">
+            <trueanswer>2821</trueanswer>
+            <falseanswer>2822</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="939">
+        <parent>0</parent>
+        <name>Module 2, Question 3</name>
+        <questiontext>&lt;p&gt;&lt;span style="font-family: 'Calibri','sans-serif'; font-size: 11pt; mso-bidi-font-family: 'Times New Roman'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;"&gt;Students will be able to write 5 sentences correctly using (1) capitals and (2) punctuation.&lt;/span&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150519182059+aYS46r</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150527174601+1mc5Qd</version>
+        <hidden>1</hidden>
+        <timecreated>1432059659</timecreated>
+        <timemodified>1432748761</timemodified>
+        <createdby>7244</createdby>
+        <modifiedby>7244</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="2823">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;Correct! This LO is specific about what student is to do and what is to be assessed.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2824">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;Please try again.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="93">
+            <trueanswer>2823</trueanswer>
+            <falseanswer>2824</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="940">
+        <parent>0</parent>
+        <name>Module 2, Question 4</name>
+        <questiontext>&lt;p&gt;&lt;span style="font-family: 'Calibri','sans-serif'; font-size: 11pt; mso-bidi-font-family: 'Times New Roman'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;"&gt;Students will be introduced to the progressive tenses.&lt;/span&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150519182723+gj17Y8</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150519182724+mnmqYt</version>
+        <hidden>1</hidden>
+        <timecreated>1432060043</timecreated>
+        <timemodified>1432060043</timemodified>
+        <createdby>7244</createdby>
+        <modifiedby>7244</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="2825">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;Please try again.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2826">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;Correct!&lt;/p&gt;
+&lt;p&gt;This LO describes the content of lesson, not the outcome.&lt;/p&gt;
+&lt;p&gt;A better LO might be: “Students will be able to write 5 sentences correctly using the present progressive tense.” This LO could be changed to indicate the past or future progressive, or a combination. Or by saying “a progressive tense,” it could allow for differentiation by giving more difficult instructions to more advanced students.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="94">
+            <trueanswer>2825</trueanswer>
+            <falseanswer>2826</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="941">
+        <parent>0</parent>
+        <name>Module 2, Question 5</name>
+        <questiontext>&lt;p&gt;Students will be able to form &lt;strong&gt;at least five&lt;/strong&gt; two-syllable comparative adjectives ending in Y.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150519182851+gsWyu6</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150519182851+N9TQnV</version>
+        <hidden>1</hidden>
+        <timecreated>1432060131</timecreated>
+        <timemodified>1432060131</timemodified>
+        <createdby>7244</createdby>
+        <modifiedby>7244</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="2827">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;Correct!&lt;/p&gt;
+&lt;p&gt;This LO is specific about what students are to do.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2828">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;Please try again.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="95">
+            <trueanswer>2827</trueanswer>
+            <falseanswer>2828</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="942">
+        <parent>0</parent>
+        <name>Module 3 - Q1</name>
+        <questiontext>&lt;p&gt;Selected response (multiple choice) assessments should never be used in a differentiated lesson.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150527175619+ERBAxv</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150527185429+CRdgsP</version>
+        <hidden>0</hidden>
+        <timecreated>1432749379</timecreated>
+        <timemodified>1432752869</timemodified>
+        <createdby>7244</createdby>
+        <modifiedby>7244</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="2829">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;Please try again.&lt;/p&gt;
+&lt;p&gt;Selected-response assessments can be useful for determining student recall of facts.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2830">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;Correct!&lt;/p&gt;
+&lt;p&gt;Selected-response assessments can be useful for determining student recall of facts.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="96">
+            <trueanswer>2829</trueanswer>
+            <falseanswer>2830</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="943">
+        <parent>0</parent>
+        <name>Module 2 - Q1  (mult choice)</name>
+        <questiontext>&lt;p&gt;&lt;span style="font-family: 'Calibri','sans-serif'; font-size: 11pt; mso-bidi-font-family: 'Times New Roman'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;"&gt;Students will recognize and form irregular comparative adjectives.&lt;/span&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150527180023+k4X1rt</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150527184826+5HsnV3</version>
+        <hidden>0</hidden>
+        <timecreated>1432749623</timecreated>
+        <timemodified>1432752506</timemodified>
+        <createdby>7244</createdby>
+        <modifiedby>7244</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="2831">
+              <answertext>&lt;p&gt;Yes&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;Please try again.&lt;/p&gt;
+&lt;p&gt;This LO is too general, and contains two separate outcomes.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2832">
+              <answertext>&lt;p&gt;No&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;This LO is too general - &lt;em&gt;How do we measure “recognition”? It also contains two separate outcomes: “recognize” and “form&lt;/em&gt;.”&lt;/p&gt;
+&lt;p&gt;A specific LO could be:  “Students will be able to complete a quiz on irregular comparative adjectives with 80% accuracy.”&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="472">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>none</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="944">
+        <parent>0</parent>
+        <name>Module 2 - Q2</name>
+        <questiontext>&lt;p&gt;&lt;span style="font-family: 'Calibri','sans-serif'; font-size: 11pt; mso-bidi-font-family: 'Times New Roman'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;"&gt;Students will be able to calculate the square footage of an area.&lt;/span&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150527184216+ZTZ1i1</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150527185152+UKdlKv</version>
+        <hidden>0</hidden>
+        <timecreated>1432752136</timecreated>
+        <timemodified>1432752712</timemodified>
+        <createdby>7244</createdby>
+        <modifiedby>7244</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="2833">
+              <answertext>&lt;p&gt;Yes&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;Please try again.&lt;/p&gt;
+&lt;p&gt;This LO is too general - &lt;em&gt;All areas? Rectangles and circles? Trapezoids? Irregular shapes?&lt;/em&gt;&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2834">
+              <answertext>&lt;p&gt;No&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;This LO is too general - &lt;em&gt;All areas? Rectangles and circles? Trapezoids? Irregular shapes?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;A specific LO could be:  “Students will be able to complete a quiz on irregular comparative adjectives with 80% accuracy.”&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="473">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>none</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="945">
+        <parent>0</parent>
+        <name>Module 2 - Q3</name>
+        <questiontext>&lt;p&gt;&lt;span style="font-family: 'Calibri','sans-serif'; font-size: 11pt; mso-bidi-font-family: 'Times New Roman'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;"&gt;Students will be able to write 5 sentences correctly using (1) capitals and (2) punctuation.&lt;/span&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150527184438+rgDOxz</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150527184903+dicpXo</version>
+        <hidden>0</hidden>
+        <timecreated>1432752278</timecreated>
+        <timemodified>1432752543</timemodified>
+        <createdby>7244</createdby>
+        <modifiedby>7244</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="2835">
+              <answertext>&lt;p&gt;Yes&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;This LO is specific about what student is to do and what is to be assessed.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2836">
+              <answertext>&lt;p&gt;No&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;Please try again.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="474">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="946">
+        <parent>0</parent>
+        <name>Module 2 - Q4</name>
+        <questiontext>&lt;p&gt;Students will be introduced to the progressive tenses.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150527185123+USdV7C</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150527185124+bpV7eZ</version>
+        <hidden>0</hidden>
+        <timecreated>1432752683</timecreated>
+        <timemodified>1432752684</timemodified>
+        <createdby>7244</createdby>
+        <modifiedby>7244</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="2837">
+              <answertext>&lt;p&gt;Yes&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;Please try again.&lt;/p&gt;
+&lt;p&gt;This LO describes the &lt;em&gt;content&lt;/em&gt; of the lesson, not the&lt;em&gt; outcome&lt;/em&gt;.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2838">
+              <answertext>&lt;p&gt;No&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;This LO describes the &lt;em&gt;content&lt;/em&gt; of lesson, not the &lt;em&gt;outcome&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;A better LO might be: “Students will be able to write 5 sentences correctly using the present progressive tense.”&lt;/p&gt;
+&lt;p&gt;This LO could be changed to indicate the past or future progressive, or a combination. Or by saying “a progressive tense,” it could allow for differentiation by giving more difficult instructions to more advanced students.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="475">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="947">
+        <parent>0</parent>
+        <name>Module 2 - Q5</name>
+        <questiontext>&lt;p&gt;Students will be able to form &lt;strong&gt;at least five&lt;/strong&gt; two-syllable comparative adjectives ending in Y.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150527185321+bphla5</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150527185321+KUV6bv</version>
+        <hidden>0</hidden>
+        <timecreated>1432752801</timecreated>
+        <timemodified>1432752801</timemodified>
+        <createdby>7244</createdby>
+        <modifiedby>7244</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="2839">
+              <answertext>&lt;p&gt;Yes&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;This LO is specific about what students are to do.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2840">
+              <answertext>&lt;p&gt;No&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;Please try again.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="476">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="948">
+        <parent>0</parent>
+        <name>Module 3 - Q2</name>
+        <questiontext>&lt;p&gt;&lt;span&gt;A math teacher is working through a unit on fractions. The students have worked on proper fractions; the next step is to work on improper fractions. The teacher gives a quick quiz on the material covered so far to identify which concepts need more reinforcement or explanation. &lt;/span&gt;This is an example of formative assessment.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150527185631+3bJwgq</stamp>
+        <version>courses.lincs.ed.gov+170720123342+SxROd6</version>
+        <hidden>0</hidden>
+        <timecreated>1432752991</timecreated>
+        <timemodified>1500554021</timemodified>
+        <createdby>7244</createdby>
+        <modifiedby>12146</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="2841">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;The teacher is assessing how ready students are to move on to the next step in the unit.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2842">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;Please try again.&lt;/p&gt;
+&lt;p&gt;The teacher is assessing how ready students are to move on to the next step in the unit.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="97">
+            <trueanswer>2841</trueanswer>
+            <falseanswer>2842</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="949">
+        <parent>0</parent>
+        <name>Module 3 - Q3</name>
+        <questiontext>&lt;p&gt;Assessments must always be differentiated.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150527185730+toJxr4</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150527185730+34zwMu</version>
+        <hidden>0</hidden>
+        <timecreated>1432753050</timecreated>
+        <timemodified>1432753050</timemodified>
+        <createdby>7244</createdby>
+        <modifiedby>7244</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="2843">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;Please try again.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;Formative assessments are seldom differentiated, and summative assessments only when it is appropriate to the intent of the lesson.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2844">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;Formative assessments are seldom differentiated, and summative assessments only when it is appropriate to the intent of the lesson.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="98">
+            <trueanswer>2843</trueanswer>
+            <falseanswer>2844</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="950">
+        <parent>0</parent>
+        <name>Module 3 - Q4</name>
+        <questiontext>&lt;p&gt;Rubrics are the best way of scoring differentiated assessments.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150527185841+8Dc4i0</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150527185841+SrIFSs</version>
+        <hidden>0</hidden>
+        <timecreated>1432753121</timecreated>
+        <timemodified>1432753121</timemodified>
+        <createdby>7244</createdby>
+        <modifiedby>7244</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="2845">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;Please try again.&lt;/p&gt;
+&lt;p&gt;Rubrics are a useful for scoring complex products, but assessments may be differentiated in other ways that simplify scoring.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2846">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;Rubrics are a useful for scoring complex products, but assessments may be differentiated in other ways that simplify scoring.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="99">
+            <trueanswer>2845</trueanswer>
+            <falseanswer>2846</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="951">
+        <parent>0</parent>
+        <name>Module 3 - Q5</name>
+        <questiontext>&lt;p&gt;An ESOL teacher wants her low-level students to be able to apply for library cards. She first reviews prior lessons about writing basic information such as name, address, and phone number, and then helps students fill out the library card application form. This is an example of a summative assessment.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150527185943+lsJ1sI</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150527185943+Gxb7Ye</version>
+        <hidden>0</hidden>
+        <timecreated>1432753183</timecreated>
+        <timemodified>1432753183</timemodified>
+        <createdby>7244</createdby>
+        <modifiedby>7244</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="2847">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;Please try again.&lt;/p&gt;
+&lt;p&gt;The teacher is helping students, and there is no indication that this is an assessment of any kind.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2848">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;The teacher is helping students, and there is no indication that this is an assessment of any kind.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="100">
+            <trueanswer>2847</trueanswer>
+            <falseanswer>2848</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="952">
+        <parent>0</parent>
+        <name>Module 4 - Q1</name>
+        <questiontext>&lt;p&gt;DI requires that all learning activities must be differentiated.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150527194039+QeZU8y</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150527194039+adfCdh</version>
+        <hidden>0</hidden>
+        <timecreated>1432755639</timecreated>
+        <timemodified>1432755639</timemodified>
+        <createdby>7244</createdby>
+        <modifiedby>7244</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="2849">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;Please try again.&lt;/p&gt;
+&lt;p&gt;Activities may be differentiated, but not all are required to be.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2850">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;Activities may be differentiated, but not all are required to be.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="101">
+            <trueanswer>2849</trueanswer>
+            <falseanswer>2850</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="953">
+        <parent>0</parent>
+        <name>Module 4 - Q2</name>
+        <questiontext>&lt;p&gt;When content is differentiated, students must not have materials on the same topic.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150527194329+IP5MLc</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150602190830+Mgq6TH</version>
+        <hidden>0</hidden>
+        <timecreated>1432755809</timecreated>
+        <timemodified>1433272108</timemodified>
+        <createdby>7244</createdby>
+        <modifiedby>7244</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="2851">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;Please try again.&lt;/p&gt;
+&lt;p&gt;Students may have materials on the same topic but differentiated by level or format.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2852">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;Materials may be differentiated by topic, level, or format&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="102">
+            <trueanswer>2851</trueanswer>
+            <falseanswer>2852</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="954">
+        <parent>0</parent>
+        <name>Module 4 - Q3</name>
+        <questiontext>&lt;p&gt;When process is differentiated, each student has a different activity.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150527194457+ObXpUX</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150527194457+KsXjcy</version>
+        <hidden>0</hidden>
+        <timecreated>1432755897</timecreated>
+        <timemodified>1432755897</timemodified>
+        <createdby>7244</createdby>
+        <modifiedby>7244</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="2853">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;Please try again.&lt;/p&gt;
+&lt;p&gt;Students may be assigned or choose to work in groups or individually.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2854">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;Students may be assigned or choose to work in groups or individually.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="103">
+            <trueanswer>2853</trueanswer>
+            <falseanswer>2854</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="955">
+        <parent>0</parent>
+        <name>Module 4 - Q</name>
+        <questiontext>&lt;p&gt;When content and/or process are differentiated, assessment must also be differentiated.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150527194612+dKt7Ag</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150527194612+AJnTYH</version>
+        <hidden>0</hidden>
+        <timecreated>1432755972</timecreated>
+        <timemodified>1432755972</timemodified>
+        <createdby>7244</createdby>
+        <modifiedby>7244</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="2855">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;Please try again.&lt;/p&gt;
+&lt;p&gt;Both formative and summative assessments may be differentiated, but it is not always necessary.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2856">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;Both formative and summative assessments may be differentiated, but it is not always necessary.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="104">
+            <trueanswer>2855</trueanswer>
+            <falseanswer>2856</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="956">
+        <parent>0</parent>
+        <name>Module 4 - Q5</name>
+        <questiontext>&lt;p&gt;In differentiating content, readiness is always addressed by using tiers.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150527194702+OUzXUt</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150527194702+oJreNO</version>
+        <hidden>0</hidden>
+        <timecreated>1432756022</timecreated>
+        <timemodified>1432756022</timemodified>
+        <createdby>7244</createdby>
+        <modifiedby>7244</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="2857">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;Please try again.&lt;/p&gt;
+&lt;p&gt;Tiers are only one way of differentiating content. Students may also have different roles in groups or use different materials, for example.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2858">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;Tiers are only one way of differentiating content. Students may also have different roles in groups or use different materials, for example.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="105">
+            <trueanswer>2857</trueanswer>
+            <falseanswer>2858</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+    </questions>
+  </question_category>
+  <question_category id="148">
+    <name>Default for Module 3 Quiz</name>
+    <contextid>13931</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>4847</contextinstanceid>
+    <info>The default category for questions shared in context 'Module 3 Quiz'.</info>
+    <infoformat>0</infoformat>
+    <stamp>ovae-moodle-dev.myquotient.net+150527201145+8NlxIB</stamp>
+    <parent>0</parent>
+    <sortorder>999</sortorder>
+    <questions>
+    </questions>
+  </question_category>
+  <question_category id="149">
+    <name>Default for Module 4 Quiz</name>
+    <contextid>13935</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>4851</contextinstanceid>
+    <info>The default category for questions shared in context 'Module 4 Quiz'.</info>
+    <infoformat>0</infoformat>
+    <stamp>ovae-moodle-dev.myquotient.net+150603121416+JL5E96</stamp>
+    <parent>0</parent>
+    <sortorder>999</sortorder>
+    <questions>
+    </questions>
+  </question_category>
+</question_categories>

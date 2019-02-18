@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="123" moduleid="4852" modulename="resource" contextid="13936">
+  <resource id="123">
+    <name>Module 4 Exercise</name>
+    <intro>&lt;p&gt;handout&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>0</display>
+    <displayoptions>a:1:{s:10:"printintro";i:1;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>3</revision>
+    <timemodified>1439131719</timemodified>
+  </resource>
+</activity>

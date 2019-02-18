@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="46" moduleid="4841" modulename="book" contextid="13925">
+  <book id="46">
+    <name>Introduction and Prerequisites</name>
+    <intro>&lt;p&gt;placeholder - do not display&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>0</numbering>
+    <customtitles>1</customtitles>
+    <timecreated>1431976585</timecreated>
+    <timemodified>1433340000</timemodified>
+    <chapters>
+      <chapter id="396">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Join the LINCS Community and Participate in Course Discussions</title>
+        <content>&lt;h1&gt;Join the LINCS Community and Participate in Course Discussions&lt;/h1&gt;
+&lt;p&gt;This course builds in opportunities to connect with other adult education practitioners who are interested in the topic of differentiated instruction through the LINCS Community. Before you begin the course, take a moment to register in the &lt;a href="https://community.lincs.ed.gov/"&gt;LINCS Community&lt;/a&gt;, if you are not already a member. This group is an open discussion forum where you can communicate and share ideas with other practitioners. Throughout this course, you will be encouraged to share your experiences and insights as you learn about and practice applying differentiated instruction.&lt;/p&gt;
+&lt;p&gt;LINCS Community:  &lt;a href="https://community.lincs.ed.gov"&gt;https://community.lincs.ed.gov&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img width="744" height="654" alt="screen grab image of the linces community homepage." src="@@PLUGINFILE@@/COP_page.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1434305828</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="397">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>Welcome!</title>
+        <content>&lt;h1&gt;Welcome!&lt;/h1&gt;
+&lt;p&gt;Welcome to &lt;i&gt;Differentiated Instruction and Lesson Planning&lt;/i&gt;. Research over many years makes it clear that differentiated instruction (DI) is one of the most effective approaches for helping students learn. If you are like most adult education teachers, you would probably say that, because of the very nature of your classes and students, you are already differentiating instruction. You would also probably say this is one of the most stressful parts of your practice. However, a more formalized study of DI theory and research affirms its effectiveness, as well as methods to make it more systematic and intentional in practice.&lt;/p&gt;
+&lt;p&gt;This course is designed to walk participants through the steps of planning a differentiated lesson. In completing it, you will produce your own differentiated lesson plan. Along the way, the course will cover: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;a refresher on DI, including related brain research&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;differentiation by adult learner readiness&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;differentiation by content, process, and product&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;backward design in lesson planning&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;crafting effective learning objectives&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;designing methods of assessment&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;creating tiered lessons and differentiated activities&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The course is divided into five modules. The first is an introduction to DI. The second, third and fourth modules cover planning, assessing and facilitating learning, and conclude with written exercises to produce elements of your differentiated lesson plan. The fifth module helps you to complete and evaluate the final draft of your lesson plan. The first four modules include suggested readings and videos related to key content presented in each module. You are encouraged to read and view these to gain a deeper level of knowledge about DI and its application to practice. All five modules also include additional readings and resources you can explore to extend your learning. And all the modules have tasks that help you to review the material (such as quizzes) and to engage with your peers about differentiated instruction in practice (through the LINCS Community). The completion time for the entire course is approximately five (5) hours. You are encouraged to complete it one module at a time, and to revisit the modules as needed.&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1432739852</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="398">
+        <pagenum>3</pagenum>
+        <subchapter>0</subchapter>
+        <title>Prerequisite Readings and Videos</title>
+        <content>&lt;h1&gt;Prerequisite Readings and Videos&lt;/h1&gt;
+&lt;p&gt;This course is designed for teachers who are already familiar with the basics of DI. If you have not completed academic coursework or professional development on this subject, this understanding may be gained by reviewing the following readings and videos.&lt;/p&gt;
+&lt;h2&gt;Readings:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Hall, T. (2002). &lt;i&gt;Differentiated instruction&lt;/i&gt;. Wakefield, MA: National Center on Accessing the General Curriculum. Retrieved from &lt;a href="http://www.principals.in/uploads/pdf/Instructional_Strategie/DI_Marching.pdf"&gt;http://www.principals.in/uploads/pdf/Instructional_Strategie/DI_Marching.pdf&lt;/a&gt; &lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;U.S. Department of Education, Office of Vocational and Adult Education. (2010). Teaching Excellence in Adult Literacy (TEAL). &lt;i&gt;TEAL Center Fact Sheet No. 5: Differentiated instruction. &lt;/i&gt;Washington, DC: American Institutes for Research. Retrieved from &lt;a href="https://teal.ed.gov/tealguide/diffinstruct"&gt;https://teal.ed.gov/tealguide/diffinstruct&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;Videos:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Tomlinson, C.A. (n.d.). &lt;i&gt;A common misconception teachers sometimes have&lt;/i&gt; –I already differentiate [Video file]. Retrieved from &lt;a href="http://www.diffcentral.com/Video_Clips.html#miscon"&gt;&lt;span&gt;http://www.diffcentral.com/Video_Clips.html#miscon&lt;/span&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Tomlinson, C.A. (n.d.). &lt;i&gt;A rationale for DI in today’s schools&lt;/i&gt; [Video file]. Retrieved from &lt;a href="https://www.youtube.com/watch?v=yI4-zcCluqI&amp;amp;list=PLYQHjsBEg9GquqyYeY6SHQQkGXr2afA54"&gt;&lt;span&gt;https://www.youtube.com/watch?v=yI4-zcCluqI&amp;amp;list=PLYQHjsBEg9GquqyYeY6SHQQkGXr2afA54&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt; &lt;/h1&gt;
+&lt;p&gt;&lt;span style="color: #993300;"&gt;Continue on to&lt;/span&gt; Module 1: Introduction to Lesson Planning for Differentiated Instruction&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1472491334</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>
